@@ -1,6 +1,7 @@
-INTEGRANTES DEL GRUPO:
-1- Ivette Azucena Mendiola Requeno
-2- Flavid Elias Reyes Paz
-3- Bryan Enrique Torres Alvarez
+## Integrantes del Grupo:
+- Ivette Azucena Mendiola Requeno
+- Flavid Elias Reyes Paz
+- Bryan Enrique Torres Alvarez
 
-Libreria: Pandas
+### Librería Utilizada:
+**Pandas**
